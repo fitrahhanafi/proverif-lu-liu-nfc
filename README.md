@@ -95,4 +95,4 @@ Setiap komponen memiliki petunjuk penggunaannya sendiri:
 
 ## Penulis
 
-Raihan Fitrah Hanafi — Politeknik Siber dan Sandi Negara.
+Raihan Fitrah Hanafi
